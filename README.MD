@@ -1,1 +1,2 @@
 # SOFTICECREAM
+Flavor : Strawberry
